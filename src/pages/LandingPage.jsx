@@ -122,7 +122,7 @@ const LandingPage = ({ page }) => {
               data-aos="fade-left"
               className="text-lg md:text-2xl !font-normal text-white/70"
             >
-              <b className="text-white">Zaddhu InfoTech Pvt. Ltdnologies</b> empowers
+              <b className="text-white">Zaddhu InfoTech Pvt. Ltd.</b> empowers
               businesses with future-ready{" "}
               {isWeb
                 ? "web solutions that enhance user engagement and performance."
@@ -164,7 +164,7 @@ const LandingPage = ({ page }) => {
                 : "Innovative Mobile Applications"}
             </h2>
             <p className="desc text-white/70">
-              At Zaddhu InfoTech Pvt. Ltdnologies, we are dedicated to delivering
+              At Zaddhu InfoTech Pvt. Ltd., we are dedicated to delivering
               transformative, secure, and future-ready technology solutions.
               Whether it’s{" "}
               {isWeb

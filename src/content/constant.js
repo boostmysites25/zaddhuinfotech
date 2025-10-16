@@ -4,7 +4,7 @@ export { logo };
 
 export const companyDetails = {
   phone: "+91-7550081119",
-  email: "zaddhu111@gmail.com",
+  email: "contact@zaddhu.com",
   address: "2/360, Bamba Nagar 2nd Street, Uchaparambumedu Main Road, Iyer Bungalow, Madurai, Tamilnadu - 625014",
   facebook: "",
   twitter: "",

@@ -27,7 +27,7 @@ const BlogDetails = () => {
     blog.metaDescription ||
     `Read our blog post about ${
       blog.title
-    } on Zaddhu InfoTech Pvt. Ltdnologies. ${blog.content
+    } on Zaddhu InfoTech Pvt. Ltd.. ${blog.content
       .substring(0, 160)
       .replace(/<[^>]*>?/gm, "")}...`;
 
@@ -35,7 +35,7 @@ const BlogDetails = () => {
     <div className="mt-[5.5rem] lg:mt-[9rem] min-h-screen text-white max-w-[100vw]">
       {/* Meta Tags */}
       <Helmet>
-        <title>{blog.title} | Zaddhu InfoTech Pvt. Ltdnologies</title>
+        <title>{blog.title} | Zaddhu InfoTech Pvt. Ltd.</title>
         <meta name="description" content={metaDescription} />
         <meta property="og:title" content={blog.title} />
         <meta property="og:description" content={metaDescription} />
